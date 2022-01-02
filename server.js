@@ -183,4 +183,4 @@ client.on('messageReactionRemove', async (reaction, user) => {
  
 });
 
-client.login("Your Token here"); // login your bot to discord
+client.login("ODkyNDg4ODAxMDEwNzQ1Mzg0.YVNo9w.HGRAQGaLLUrYWWIibQity7_SMj4"); // login your bot to discord
